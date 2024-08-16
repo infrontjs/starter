@@ -1,0 +1,2 @@
+# starter
+InfrontJS Starter Project
