@@ -1,0 +1,30 @@
+{
+  "name": "infrontjs-starter",
+  "version": "1.0.0",
+  "description": "InfrontJS Starter",
+  "main": "src/app/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "run-dev": "frontfire run-dev",
+    "build": "frontfire build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infrontjs/starter.git"
+  },
+  "author": "InfrontJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infrontjs/starter/issues"
+  },
+  "homepage": "https://github.com/infrontjs/starter#readme",
+  "dependencies": {
+    "infrontjs": "^0.9.6"
+  },
+  "devDependencies": {
+    "frontfire": "^0.3.4"
+  }
+}
