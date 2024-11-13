@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/infrontjs/starter#readme",
   "dependencies": {
-    "infrontjs": "^0.9.6"
+    "infrontjs": "^0.9.95"
   },
   "devDependencies": {
-    "frontfire": "^0.3.4"
+    "frontfire": "^0.5.0"
   }
 }
